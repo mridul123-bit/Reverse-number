@@ -12,6 +12,7 @@ public class Main
            s=s*10+r;
            a=a/10;
        }
+       
        System.out.println(s);
 }
 
